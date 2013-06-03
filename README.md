@@ -6,7 +6,7 @@ Simple bash script to add entry to vhosts and hosts file for local web environme
 Setup
 -----
 
-1) Open up `vhosts.sh` in a text editor to check configuration.
+1) Open up _vhosts.sh_ in a text editor to check configuration.
 
 2) Check `web_root_path` is path to local web root. Example: _/Users/name/Sites/_
 
