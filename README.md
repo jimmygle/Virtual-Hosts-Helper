@@ -1,6 +1,8 @@
 Virtual Hosts Helper
 ====================
 
+*Note: I recommend using [Vagrant/Homestead](http://laravel.com/docs/5.0/homestead) instead of MAMP these days.*
+
 Simple bash script to add entry to vhosts and hosts file for local web environments like MAMP.
 
 Setup
